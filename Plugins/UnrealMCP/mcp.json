@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "unrealMCP": {
+      "command": "A:/Proyectos/Dungeons-Dash/UnrealMCP/.venv/Scripts/python.exe",
+      "args": [
+        "A:/Proyectos/Dungeons-Dash/UnrealMCP/unreal_mcp_server.py"
+      ]
+    }
+  }
+}
