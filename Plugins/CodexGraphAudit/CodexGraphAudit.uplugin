@@ -1,0 +1,17 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Codex Graph Audit",
+  "Description": "Temporary read-only Blueprint graph audit tooling.",
+  "Category": "Editor",
+  "EnabledByDefault": true,
+  "CanContainContent": false,
+  "Modules": [
+    {
+      "Name": "CodexGraphAudit",
+      "Type": "Editor",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
